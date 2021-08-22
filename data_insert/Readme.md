@@ -1,4 +1,8 @@
-# MySQL 學習筆記(五) - 如何將數據插入Table? 如何限制填入的數據必須有值? 如何設定沒有填入數據的狀況下預設值是什麼? Insert, Select, NULL/NOT NULL語句用法
+# MySQL 學習筆記(五) - 如何將數據插入Table? 如何限制填入數據時哪些欄位必須有值?Insert, Select, NULL/NOT NULL語句用法
+
+
+
+
 
 
 
